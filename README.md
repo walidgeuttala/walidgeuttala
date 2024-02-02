@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @walidgeuttala
-- 👀 I’m interested in deep learning, machine learning and problem solving
-- 🌱 I’m currently learning advance trading systems using big data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by my email : walidguettala@gmail.com
+### 👋 Hello, World! I'm Walid Geuttala.
+
+Welcome to my coding corner! I'm a passionate individual diving deep into the realms of technology. Here's a glimpse of what keeps my coding heart beating:
+
+- 👀 Exploring the wonders of deep learning, machine learning, and the art of problem-solving.
+  
+- 🌱 Currently on an exciting journey delving into the magic of Graph Neural Networks.
+
+- 💞️ Always open to collaboration on mind-bending Deep Learning projects that challenge the status quo.
+
+- 📫 Drop me a line at guettalawalid@inf.elte.hu - let's connect and build something extraordinary!
 
 <!---
 walidgeuttala/walidgeuttala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
