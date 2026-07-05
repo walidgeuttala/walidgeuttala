@@ -1,4 +1,4 @@
-### 👋 Hello, World! I'm Walid Geuttala.
+### 👋 Hello, World! I'm Walid Guettala.
 
 Welcome to my coding corner! I'm a passionate individual diving deep into the realms of technology. Here's a glimpse of what keeps my coding heart beating:
 
